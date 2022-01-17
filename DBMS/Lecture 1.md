@@ -22,7 +22,7 @@ There are very little things we did in the first lecture. One can say, we did "n
 4. Quizzes in tutorial class: 8%
 5. Project: 30%
 	1. Mid-project: 10% (During week 7, 28 Feb to 4 March)
-	2. Final-project: 15% (During week 15, 26April to 29April)
+	2. Final-project: 15% (During week 15, 26 April to 29 April)
 	3. Project document/code submission (Week 15)
 
 ## Task for today?
