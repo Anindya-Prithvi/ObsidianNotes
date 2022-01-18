@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "313047f0c08fdbf6",
+        "id": "a169cbad39918960",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GT/Lecture 2.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,12 +68,25 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GT/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ac6826e514d86bfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GT/Lecture 2.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -82,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "313047f0c08fdbf6",
+  "active": "a169cbad39918960",
   "lastOpenFiles": [
-    "GT/Lecture 1.md",
-    "GT/GT lecture notes.md",
     "GT/Lecture 2.md",
-    "ECO/Lecture 2.md",
+    "GT/GT lecture notes.md",
+    "GT/Lecture 1.md",
+    "DBMS/DBMS lecture notes.md",
     "ECO/ECO lecture notes.md",
     "ECO/Lecture 1.md",
-    "GT/rgrg.md",
-    "GT/eijf.md",
-    "DBMS/DBMS lecture notes.md",
-    "DBMS/Lecture 1.md"
+    "DBMS/Lecture 1.md",
+    "PB/PB lecture notes.md",
+    "PB/Lecture 1.md",
+    "PB/Lecture 2.md"
   ]
 }

@@ -1,5 +1,5 @@
 # Lectio Prima
-There are very little things we did in the first lecture. One can say, we did "nothing".
+There are very little things we did in the first lecture. One can say, we did "nothing". Here is a summary of the classroom policies.
 
 ## Broad objectives
 - Learn database principles

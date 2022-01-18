@@ -8,5 +8,13 @@
     "downscalePercent": 100
   },
   "strictLineBreaks": true,
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "spellcheck": false,
+  "vimMode": false,
+  "spellcheckDictionary": [
+    "undirected",
+    "Midsem",
+    "Endsem",
+    "regressand"
+  ]
 }
