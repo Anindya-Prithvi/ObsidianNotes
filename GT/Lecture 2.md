@@ -20,7 +20,7 @@ Complement of $G$: The complement $G'$ of a simple graph $G$:
 - Example:
 	-	$\{x,y,u\}$ is a clique in $G$
 	-	$\{u,w\}, \{v,y\}$ is an independent set.
-	-	![[Pasted image 20220119141532.png]]
+		![[GT/Pasted image 20220119141532.png|150]]
 	-	Question: The largest possible independent set? [Later]
 	-	Question: The largest clique in a graph? (Not an interesting problem though lol)
 
@@ -29,11 +29,14 @@ Complement of $G$: The complement $G'$ of a simple graph $G$:
 - Also: The vertices can be partitioned into two sets such that each set is independent
 - The Matching Problem
 - The Job Assignment Problem
-- Complete bipartite graph
+- Complete bipartite graph (biclique) is a simple bipartite graph such that two vertices are adjacent if and only if they are in different partite sets.  
+  ![[GT/Pasted image 20220119234724.png]]  
+  A complete bipartite graph with partite sets of size $r$ and $s$ is denoted by $K_{r,s}$.  
+  A graph $G$ is k-partite if $V(G)$ is a union of $k$ independent sets.
 
 ## Path and Cycle
-- Path: A sequence of distinct vertices such that two consecutive vertices are adjacent.
-- Cycle: A closed path (Only repeated vertex is the first which is same as last)
+- Path: A sequence of distinct vertices such that two consecutive vertices are adjacent. E.g. (a,b,c,d,e)
+- Cycle: A closed path (Only repeated vertex is the first which is same as last) E.g. (a,d,c,b,e,a)
 
 ## Walk and Trail
 - A walk of length $k$ is sequence of $v_0,e_1,v_1,e_2\dots,e_k,v_k$ of vertices and edges such that $e_i=v_{i-1}v_i$ for all $i$.
@@ -45,12 +48,16 @@ Complement of $G$: The complement $G'$ of a simple graph $G$:
 	- A loop is a cycle of length one
 
 ## Proposition 2
-Every $u,v$-walk contains a $u,v$-path
-Proof:
+Every $u,v$-walk contains a $u,v$-path.
+Proof by strong induction:
 - Use induction on the length of a $u,v$-walk $W$.
 - Basis step: $l=0$
 	- Having no edge, $W$ consists of a single vertex ($u=v$)
 	- This vertex is a $u,v$-path of length $0$.
 - Induction step : $l\geq1$
 	- Suppose that the claim holds for walks of length less than $l$
-	- If $W$ has no repeated vertex...
+	- If $W$ has no repeated vertex, then its vertices and edges form a $u,v$-path. Here's an illustration  
+	  ![[GT/Pasted image 20220119235522.png|300]]
+	- If $W$ has a repeated vertex $w$, then deleting the edges and vertices between appearances of $w$ (leaving one copy of $w$) yields a shorter $u,v$-walk $W'$ contained in $W$.
+		- By the inductive hypothesis, $W'$ contains a $u,v$-path $P$, and this path $P$ is contained in $W$.  
+		![[GT/Pasted image 20220119235404.png|300]]
