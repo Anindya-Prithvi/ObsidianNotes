@@ -1,4 +1,4 @@
-# First lecture
+e# First lecture
 This is day 2, first lecture of econometrics. The professor is pretty chill. The pre-requisite is Probability and Statistics course. No recording however multiple office hours. Note from professor: Read the course book, it's very good! Motivation to study? High demand field. The course would again revolve around data analysis like PB.
 
 ## Course evaluations and reference
