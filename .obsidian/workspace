@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e5691492c7a6ba5",
-        "type": "split",
-        "children": [
-          {
-            "id": "c4f3915656566683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GT/Lecture 3.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6d4ff6bd2f261240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GT/Lecture 3.md",
-                "mode": "preview"
-              }
-            }
+        "id": "c4f3915656566683",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ECO (Dropped)/ECO lecture notes.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -70,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b9829ed34ae8e28",
@@ -87,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GT/Lecture 3.md",
+                "file": "ECO (Dropped)/ECO lecture notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GT/Lecture 3.md",
+                "file": "ECO (Dropped)/ECO lecture notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +100,15 @@
   },
   "active": "c4f3915656566683",
   "lastOpenFiles": [
+    "ECO (Dropped)/ECO lecture notes.md",
+    "ECO (Dropped)/Lecture 2.md",
+    "ECO (Dropped)/Lecture 1.md",
+    "ECO (Dropped)/Jeffrey M. Wooldridge - Introductory Econometrics_ A Modern Approach-Cengage Learning (2008).pdf",
     "GT/Lecture 3.md",
     "GT/GT lecture notes.md",
     "ADA/Lecture 1.md",
-    "ECO/ECO lecture notes.md",
-    "ECO/Lecture 1.md",
     "GT/GT lecture notes.pdf",
     "GT/Lecture 1.pdf",
-    "GT/Lecture 1.md",
-    "GT/Lecture 2.md",
-    "GT/Pasted image svgtikz2Lec1.svg"
+    "GT/Lecture 1.md"
   ]
 }
