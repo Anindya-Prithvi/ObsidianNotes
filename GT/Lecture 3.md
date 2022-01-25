@@ -1,4 +1,4 @@
-# Lecture 3!
+# L(3)
 Say, “Lalisa, love me, Lalisa, love me” (Hey!)  
 Call me, “Lalisa, love me, Lalisa, love me” (Hey!)  
 Oh-ooh, aljanh-a attitude  
