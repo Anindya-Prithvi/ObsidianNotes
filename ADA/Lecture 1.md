@@ -18,7 +18,7 @@ Primitive Ops: Add/Multiply two single digit integers (recall digital circuits a
 	- Summation of them, $2n^2$
 	- Net $4n^2$
 
-- Doing it differently:
+- Doing it differently: (Main idea: $\frac{n}{2}$ digits for each $a,b,c,d$)
 	- $\overbrace{56}^a \overbrace{78}^b \times \overbrace{12}^c \overbrace{34}^d$
 		1. Compute $a.c=672$
 		2. Compute $b.d = 2652$
@@ -29,7 +29,7 @@ Primitive Ops: Add/Multiply two single digit integers (recall digital circuits a
 	- Here's the recursive implementation, where $A=10^{\frac{n}{2}}\cdot a + b, B=10^\frac{n}{2}\cdot c + d$ and $A\times B = 10^n ac+10^\frac{n}{2}(ad+bc)+bd$
 	  1. Recursively compute $a.c$
 	  2. Recursively compute $b.d$
-	  3. Recursively compute $(a+b)\cdot (c+d)$
+	  3. Recursively compute $(a+b)\cdot (c+d)$ (Karatsuba method, otherwise 4 recursive calls)
 	  4. Compute $\boxed{3.-2.-1.}$ for each call
 	  5. Pad and add!
 		

@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6f732cdb9e9c8bb2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
+        "id": "ca19ad420d551506",
+        "type": "split",
+        "children": [
+          {
+            "id": "86b2df35fbc175f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADA/ADA lecture notes.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "79e2fbe64a869e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADA/Lecture 2.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ADA/ADA lecture notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ADA/ADA lecture notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,14 +116,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f732cdb9e9c8bb2",
+  "active": "86b2df35fbc175f9",
   "lastOpenFiles": [
+    "ADA/ADA lecture notes.md",
+    "ADA/Lecture 2.md",
+    "ADA/Lecture 1.md",
     "README.md",
     "ECO (Dropped)/ECO lecture notes.md",
-    "ADA/Lecture 2.md",
-    "ADA/ADA Lecture Notes.pdf",
-    "ADA/ADA Lecture Notes.md",
-    "ADA/Lecture 1.md",
+    "ADA/ADA lecture notes.pdf",
     "PB/Lecture 2.md",
     "PB/Lecture 1.md",
     "GT/Lecture 3.md",
