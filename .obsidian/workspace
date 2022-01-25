@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca19ad420d551506",
-        "type": "split",
-        "children": [
-          {
-            "id": "86b2df35fbc175f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADA/ADA lecture notes.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "79e2fbe64a869e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADA/Lecture 2.md",
-                "mode": "preview"
-              }
-            }
+        "id": "86b2df35fbc175f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADA/ADA lecture notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADA/ADA lecture notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +100,10 @@
   },
   "active": "86b2df35fbc175f9",
   "lastOpenFiles": [
+    "README.md",
     "ADA/ADA lecture notes.md",
     "ADA/Lecture 2.md",
     "ADA/Lecture 1.md",
-    "README.md",
     "ECO (Dropped)/ECO lecture notes.md",
     "ADA/ADA lecture notes.pdf",
     "PB/Lecture 2.md",
