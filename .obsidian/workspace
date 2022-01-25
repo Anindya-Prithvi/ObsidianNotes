@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5e1382cbc58ac757",
+        "id": "6f732cdb9e9c8bb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ADA/Lecture 2.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADA/Lecture 2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADA/Lecture 2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e1382cbc58ac757",
+  "active": "6f732cdb9e9c8bb2",
   "lastOpenFiles": [
+    "README.md",
+    "ECO (Dropped)/ECO lecture notes.md",
     "ADA/Lecture 2.md",
-    "ADA/Lecture 1.md",
+    "ADA/ADA Lecture Notes.pdf",
     "ADA/ADA Lecture Notes.md",
+    "ADA/Lecture 1.md",
     "PB/Lecture 2.md",
     "PB/Lecture 1.md",
     "GT/Lecture 3.md",
-    "GT/Lecture 1.md",
-    "GT/Lecture 2.md",
-    "DBMS/Lecture 2.md",
-    "DBMS/Lecture 1.md"
+    "GT/Lecture 1.md"
   ]
 }
