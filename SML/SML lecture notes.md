@@ -4,6 +4,7 @@ These are the notes for Statistical Machine Learning. The first lecture had a sl
 ## Index
 1. [[SML/Lecture 1]] : Introduction to the course and grading.
 2. [[SML/Lecture 2]] : Something more here
+3. [[SML/Lecture 3]] : Moreeee!
 
 <br>
 

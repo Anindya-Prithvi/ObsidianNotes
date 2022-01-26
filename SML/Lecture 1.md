@@ -12,7 +12,7 @@ Say $y(x,\vec w)=w_0+w_1x+w_2x^2+\dots+w_Mx^M=\displaystyle\sum_{j=0}^M w_jx^j$
 
 ### Over-fitting
 When training loss function is low but on testing it becomes high.
-![[Pasted image 20220126185719.png]]
+![[SML/Pasted image 20220126185719.png]]
 
 ### Regularization
 This is just adding a term in the loss function to penalize when the magnitude of $\vec w$ is high. There is Lasso and Ridge regression (L1, L2). Lasso has sum of absolute values instead of sum of magnitude. Infact you may define your very own lol.
