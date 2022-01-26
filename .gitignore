@@ -1,2 +1,4 @@
-# ignore course book ECO
-Jeffrey M. Wooldridge - Introductory Econometrics_ A Modern Approach-Cengage Learning (2008).pdf
+# ignore pdfs unless added
+*.pdf
+# confidential assignments (will make public after 2030)
+ADA/Assignments/*

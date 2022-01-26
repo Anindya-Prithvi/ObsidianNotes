@@ -15,7 +15,7 @@ mwol deo eojjeolagu, the loudest in the room (Hoo! Hoo!)
 - *Section 1.1.35 has **special graphs** with small number of vertices*
 
 ### Labelled and unlabelled graphs. 
-- We usually use letters to _label_ vertices, hence the notion of labelled graph. Unlabeled graphs refer to an isomorphism class (E.g. $K_n, C_n, K_{r,s}, P_n$ (the paths with n vertices).
+- We usually use letters to _label_ vertices, hence the notion of labelled graph. Unlabeled graphs refer to an isomorphism class (E.g. $K_n, C_n, K_{r,s}, P_n$ (the paths with n vertices). There is also a Peterson Graph which gets generalized. (Wolfram GP(x,y))
 - No. of labelled graph given $n$ labels is $2^{n\choose 2}$ (Either choose or not choose edge).
 - How many isomorphic among each other? No idea if $P$ or $NP$. It is however known the subgraph isomorphism is ***NP-complete***, i.e. whether a graph contains a subgraph isomorphic to a given graph.
 - Section 1.1.31 has 11 isomorphism classes of graphs with $4$ vertices, whereas there are $64$ labelled graphs with $4$ vertices.
