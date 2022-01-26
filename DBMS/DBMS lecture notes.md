@@ -4,8 +4,11 @@ These are the notes for database management systems course. The professor says i
 ## Here is a somewhat detailed overview.
 1. [[DBMS/Lecture 1]] : Introduction to the course and grading.
 2. [[DBMS/Lecture 2]] : Something more here
+3. [[DBMS/Lecture 3]] : IDK what's going on
 
 <br>
 
 ![[DBMS/Lecture 1]]
 ![[DBMS/Lecture 2]]
+![[DBMS/Lecture 3]]
+![[DBMS/Lecture 4]]
