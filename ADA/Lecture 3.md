@@ -1,5 +1,5 @@
 # Lecture->3
-![[Pasted image 20220128134320.png|400]]
+![[ADA/Pasted image 20220128134320.png|400]]
 
 ## Divide and Conquer Algorithms
 1. Divide (break into several parts)
