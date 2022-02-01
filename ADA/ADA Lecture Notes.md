@@ -5,9 +5,11 @@ These are the notes for analysis and design of algorithms course. The professor 
 1. [[ADA/Lecture 1]] : Introduction to the course and grading.
 2. [[ADA/Lecture 2]] : Mastering Master Theorem
 3. [[ADA/Lecture 3]] : DAC
+4. [[ADA/Lecture 4]] : DAC continued
 
 <br>
 
 ![[ADA/Lecture 1]]
 ![[ADA/Lecture 2]]
 ![[ADA/Lecture 3]]
+![[ADA/Lecture 4]]

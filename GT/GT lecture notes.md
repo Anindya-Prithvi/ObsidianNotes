@@ -6,6 +6,7 @@ These are the notes for graph theory course. The professor says it'll be a simpl
 2. [[GT/Lecture 2]] : Something more here
 3. [[GT/Lecture 3]] : Something more
 4. [[GT/Lecture 4]] : Cycles and repeated vertices
+5. [[GT/Lecture 5]] : Waaao
 
 <br>
 
@@ -13,3 +14,4 @@ These are the notes for graph theory course. The professor says it'll be a simpl
 ![[GT/Lecture 2]]
 ![[GT/Lecture 3]]
 ![[GT/Lecture 4]]
+![[GT/Lecture 5]]
