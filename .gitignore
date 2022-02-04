@@ -1,5 +1,7 @@
 # ignore pdfs unless added
 *.pdf
+# tex cache
+*.gz
 # confidential assignments (will make public after 2030)
 ADA/Assignments/*
 .obsidian/*
