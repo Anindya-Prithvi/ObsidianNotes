@@ -7,6 +7,8 @@ These are the notes for analysis and design of algorithms course. The professor 
 3. [[ADA/Lecture 3]] : DAC
 4. [[ADA/Lecture 4]] : DAC continued
 5. [[ADA/Lecture 5]] : Last DAC
+6. [[ADA/Lecture 6]] : Dynamic programming 1
+7. [[ADA/Lecture 7]] : Knapsack problem
 
 <br>
 
@@ -15,3 +17,5 @@ These are the notes for analysis and design of algorithms course. The professor 
 ![[ADA/Lecture 3]]
 ![[ADA/Lecture 4]]
 ![[ADA/Lecture 5]]
+![[ADA/Lecture 6]]
+![[ADA/Lecture 7]]

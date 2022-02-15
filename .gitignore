@@ -5,3 +5,6 @@
 # confidential assignments (will make public after 2030)
 ADA/Assignments/*
 .obsidian/*
+
+#manually add solutions
+*.ipynb
