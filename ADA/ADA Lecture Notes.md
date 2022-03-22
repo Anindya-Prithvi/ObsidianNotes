@@ -9,7 +9,11 @@ These are the notes for analysis and design of algorithms course. The professor 
 5. [[ADA/Lecture 5]] : Last DAC
 6. [[ADA/Lecture 6]] : Dynamic programming 1
 7. [[ADA/Lecture 7]] : Knapsack problem
-
+8. [[ADA/Lecture 8]] : Sequence alignment
+9. [[ADA/Lecture 9]] : Matrix chains
+10. [[ADA/Lecture 10]] : Watashiwa Greed
+11. [[ADA/Lecture 11]] : Graph coloring problem (Lecture sched)
+12. [[ADA/Lecture 12]] : Greedy 3
 <br>
 
 ![[ADA/Lecture 1]]
@@ -19,3 +23,4 @@ These are the notes for analysis and design of algorithms course. The professor 
 ![[ADA/Lecture 5]]
 ![[ADA/Lecture 6]]
 ![[ADA/Lecture 7]]
+![[ADA/Lecture 8]]
