@@ -9,6 +9,7 @@ Unstable when for some matching $M$ there are two candidates who might *cheat* o
 Stable if no unstable lol.
 
 ### The algorithm (Gale-Shapely):  
+[From the wiki](https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm#Algorithm)  
 **Initialize:** All wizards $w\in W$ and wands $v\in V$ are unmatched.
 **Iterate:**  
 while $\exists\ w, w\not\xrightarrow{}v$ and not tried every wand:  
@@ -21,7 +22,7 @@ while $\exists\ w, w\not\xrightarrow{}v$ and not tried every wand:
 2. Each wizard tries each wand at most once.
 3. Once a wand has a holder, it never becomes free (it just gets a new wizard). However a wizard is dobee, they may become *free*.
 
-**Note:** If the position of wands and wizards were flipped we may get a different stable matching.
+**Note:** If the position of wands and wizards were flipped we may get a different stable matching. (move to bottom of the page)
 
 **Termination:** Using observation 2, we see that $n$ wizard can try at most $n$ wands. Therefore, by $\mathcal{O}(n^2)$ we shall be done.
 
@@ -35,3 +36,17 @@ while $\exists\ w, w\not\xrightarrow{}v$ and not tried every wand:
 
 We might consider the stable roommate problem i.e. pair $n$ people given everyone has a preference list of $n-1$ remaining candidates. A stable matching may not exist.  
 In our setting, a stable matching shall always exist as shown above.  
+
+Now, size of input is $\mathrm{N}=2n^2\in\mathcal{\Theta}(n^2)$, then in terms of size of the input, our algorithm is just $\mathcal{O}(\mathrm{N})$.
+
+To implement efficiently,  
+For each wand $v$, $\mathrm{Pref[v]}$, we generate a converse preference list which essentially is $w\mapsto v$, so whenever a wizard is trying a wand, we can fetch their preference in constant time.
+
+### Which Stable-Matching does GS find?
+Here are a few definitions lol.
+- **Valid wand:** Wand $v$ is a valid wand for wizard $w$ if $v$ can be assigned to $w$ in *some* stable matching.
+- **Wizard Optimal Matching:** A stable matching where *every* wizard gets the best possible valid wand.
+
+**Theorem:** GS produces a Wizard Optimal Matching. Therefore a unique stable matching.  
+**Proof:** Khud karlo  
+**Corollary:** GS produces a wand pessimal matching.
