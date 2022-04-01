@@ -5,13 +5,16 @@ These are the notes for Statistical Machine Learning. The first lecture had a sl
 1. [[SML/Lecture 1]] : Introduction to the course and grading.
 2. [[SML/Lecture 2]] : Something more here
 3. [[SML/Lecture 3]] : Moreeee!
+4. Time warp, BDT, MLE, $\theta_{MAP}$,PCA, FDA
+5. [[SML/Lecture 13]] : Regression
+6. [[SML/Lecture 14]] : Bias, Variance, Gaussian kernel
+7. [[SML/Lecture 15]]: Regularization, beginning of DL
+8. [[SML/Lecture 16]]: Gradient dissent
+9. Time warp, backpropagation, logistic regr.
+10. Live
 
 <br>
 
 ![[SML/Lecture 1]]
 ![[SML/Lecture 2]]
 ![[SML/Lecture 3]]
-![[SML/Lecture 4]]
-![[SML/Lecture 5]]
-![[SML/Lecture 6]]
-
