@@ -16,7 +16,8 @@ These are the notes for analysis and design of algorithms course. The professor 
 12. [[ADA/Lecture 12]] : Greedy 3
 13. [[ADA/Lecture 13]]: Graph Algorithms 1 - Undirected DFS
 14. [[ADA/Lecture 14]]: Checking 2-Edge connectivity
-15. [[ADA/Lecture 15]]: Something
+15. [[ADA/Lecture 15]]: Union and find datastructure
+16. [[ADA/Lecture 16]]: Path compression
 <br>
 
 ![[ADA/Lecture 1]]
@@ -33,3 +34,4 @@ These are the notes for analysis and design of algorithms course. The professor 
 ![[ADA/Lecture 13]]
 ![[ADA/Lecture 14]]
 ![[ADA/Lecture 15]]
+![[ADA/Lecture 16]]
