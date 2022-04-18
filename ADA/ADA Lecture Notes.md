@@ -14,10 +14,12 @@ These are the notes for analysis and design of algorithms course. The professor 
 10. [[ADA/Lecture 10]] : Watashiwa Greed
 11. [[ADA/Lecture 11]] : Graph coloring problem (Lecture sched)
 12. [[ADA/Lecture 12]] : Greedy 3
-13. [[ADA/Lecture 13]]: Graph Algorithms 1 - Undirected DFS
-14. [[ADA/Lecture 14]]: Checking 2-Edge connectivity
-15. [[ADA/Lecture 15]]: Union and find datastructure
-16. [[ADA/Lecture 16]]: Path compression
+13. [[ADA/Lecture 13]] : Graph Algorithms 1 - Undirected DFS
+14. [[ADA/Lecture 14]] : Checking 2-Edge connectivity
+15. [[ADA/Lecture 15]] : Union and find datastructure
+16. [[ADA/Lecture 16]] : Path compression
+17. [[ADA/Lecture 17]] : Bellman Ford (DP)
+18. [[ADA/Lecture 18]] : Bellman Ford Continued, Network Flows
 <br>
 
 ![[ADA/Lecture 1]]
