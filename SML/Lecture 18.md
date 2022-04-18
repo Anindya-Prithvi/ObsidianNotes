@@ -17,4 +17,5 @@ ___
 - Eww Decision trees (but easy to interpret). In theory decision spaces could be arbitary hyper-shapes.
 - Since the trees (in practice) divides stuff in high dimensional rectangular regions we can create a loss function like $\sum_{j=1}^J\sum_{i\in R}(y_i-\hat{y_R})$
 - But that's sad, sad in reverse is das, and das not good.
-- Discretize the splits. The split across dimension $x_n$ which gives the lowest error for regionwise class will be the split to go with. For the next split, you can only choose one among the split regions (random). Apply iteratively (but thresh it lol, otherwise every sample will have it's own region). Threshing can be like, no. of samples $\geq$ for each class.
+- Discretize the splits. The split across dimension $x_n$ which gives the lowest error for regionwise class will be the split to go with. For the next split, you can only choose one among the split regions (random, therefore we use forests or a hive mind lol). Apply iteratively (but thresh it lol, otherwise every sample will have it's own region). Threshing can be like, no. of samples $\geq$ for each class.
+- Classification trees (loss Gini Index $G=\displaystyle\sum_{k=1}^{K}\hat{p_k}(1-\hat{p_k})$ for each node 'm', 'K' is the number of classes and $\hat{p_k}$ is the probability of 'k' in current node.).
