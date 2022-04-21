@@ -12,7 +12,8 @@ These are the notes for Statistical Machine Learning. The first lecture had a sl
 8. [[SML/Lecture 16]]: Gradient dissent
 9. Time warp, backpropagation, logistic regr.
 10. CNN (kernel convolutions) /DL begin etc.
-11. [[SML/Lecture 18]]: CNN continued, Convolutinal auto-encoders
+11. [[SML/Lecture 18]]: CNN continued, Convolutinal auto-encoders, Decision trees
+12. [[SML/Lecture 19]]: Live
 
 <br>
 
@@ -23,3 +24,5 @@ These are the notes for Statistical Machine Learning. The first lecture had a sl
 ![[SML/Lecture 14]]
 ![[SML/Lecture 15]]
 ![[SML/Lecture 16]]
+![[Lecture 18]]
+![[Lecture 19]]

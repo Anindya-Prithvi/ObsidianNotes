@@ -19,3 +19,6 @@ ___
 - But that's sad, sad in reverse is das, and das not good.
 - Discretize the splits. The split across dimension $x_n$ which gives the lowest error for regionwise class will be the split to go with. For the next split, you can only choose one among the split regions (random, therefore we use forests or a hive mind lol). Apply iteratively (but thresh it lol, otherwise every sample will have it's own region). Threshing can be like, no. of samples $\geq$ for each class.
 - Classification trees (loss Gini Index $G=\displaystyle\sum_{k=1}^{K}\hat{p_k}(1-\hat{p_k})$ for each node 'm', 'K' is the number of classes and $\hat{p_k}$ is the probability of 'k' in current node.).
+	- Binary genie index lol
+	- Get dataset $D$, get $n$ subsets (which may have rep. elements), the remaining (as a result of rep.) shall be used as a validation (also called out of bag OOB error), not much purpose of validation tho, we wont be re-training it, it's just for analysis. We train a forest now. So, given in sample say $x^*$ we shall compute all predictions. Get the majority, ofc. (audience poll xD)
+	- bagging uses all features in all trees, in random forest `sqrt` n_features are used (kind of tree independence).
