@@ -12,7 +12,7 @@ where $E$ is for expectation. $M=2$ the degree of polynomial.
 - But variance small (less degree of freedom for functions xD) and bias large (linear could never model quadratic).
 
 We use cross-validation to figure out best M.
-![[Pasted image 20220330223731.png]]
+![[SML/Pasted image 20220330223731.png]]
 
 
 ## Gaussian Process
@@ -23,10 +23,10 @@ Here $l$ is the width of the gaussian kernel, $\sigma$ max of kernel, both unkno
 
 $P(y^*|x,y)\sim \mathcal N(\mu^*,\sigma^*)$ where we want the prediction for $y^{*}$ 
 This is a conditional distro on $y^*$ given all other info.
-![[Pasted image 20220330232147.png]]
+![[SML/Pasted image 20220330232147.png]]
 
-![[Pasted image 20220330232254.png]]
+![[SML/Pasted image 20220330232254.png]]
 Last y is $y^*$
 
 So we get a whole ass confidence interval
-![[Pasted image 20220330232400.png]]
+![[SML/Pasted image 20220330232400.png]]
